@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reyeatspie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="reyeatspie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="rey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rey" target="blank"><img align="center" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" alt="rey" height="30" width="40" /></a>
 <a href="https://discord.gg/tbw8ZEcpFT" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="tbw8ZEcpFT" height="30" width="40" /></a>
 </p>
 
