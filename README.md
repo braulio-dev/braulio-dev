@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rey</h1>
-<h3 align="center">A passionate Java developer with Minecraft experience (Spigot, Forge, SpongeForge)</h3>
+<h3 align="center">A passionate Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rey-dev&label=Profile%20Views&color=ff2e2e&style=flat" alt="rey-dev" /> </p>
 
