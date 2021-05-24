@@ -9,6 +9,21 @@
 
 - 📫 How to reach me **reymainmail@gmail.com**
 
+- Experience with <img align="center" src="https://account.mojang.com/images/minecraft_icon_s.png"> Minecraft projects.
+- Experience with <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height=16 width=16> Discord bot development.
+
+<h3 align="left">Minecraft Experience with:</h3>
+<p align="left">
+<a href="https://www.spigotmc.org/members/reybot.938243/" target="blank"><img align="center" src="https://static.spigotmc.org/img/spigot.png" height="30" width="40"/></a>
+<img align="center" src="https://raw.githubusercontent.com/MinecraftForge/MinecraftForge/435e65eb181e955794bcef7418c9f0f9f60b29cd/docs/assets/Forge_logo.svg" height="30"/>
+<img align="center" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" height="30" width="40" />
+</p>
+
+<h3 align="left">Discord Experience with:</h3>
+<p align="left">
+<a href="https://github.com/DV8FromTheWorld/JDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/DV8FromTheWorld/JDA/assets/assets/readme/logo.png" height="30" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reyeatspie" target="blank"><img align="center" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" alt="reyeatspie" height="30" width="40" /></a>
