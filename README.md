@@ -10,7 +10,9 @@
 - 📫 How to reach me **reymainmail@gmail.com**
 
 - Experience with <img align="center" src="https://account.mojang.com/images/minecraft_icon_s.png"> Minecraft projects.
-- Experience with <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height=16 width=16> Discord bot development.
+- Experience
+  with <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height=16 width=16>
+  Discord bot development.
 
 <h3 align="left">Minecraft Experience with:</h3>
 <p align="left">
@@ -27,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reyeatspie" target="blank"><img align="center" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" alt="reyeatspie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rey" target="blank"><img align="center" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" alt="rey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtLsjq1cPuFEwfbCjEKkRKA" target="blank"><img align="center" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" alt="rey" height="30" width="40" /></a>
 <a href="https://discord.gg/tbw8ZEcpFT" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="tbw8ZEcpFT" height="30" width="40" /></a>
 </p>
 
