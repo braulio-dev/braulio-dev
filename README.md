@@ -29,8 +29,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reyeatspie" target="blank"><img align="center" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" alt="reyeatspie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtLsjq1cPuFEwfbCjEKkRKA" target="blank"><img align="center" src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" alt="rey" height="30" width="40" /></a>
-<a href="https://discord.gg/tbw8ZEcpFT" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="tbw8ZEcpFT" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtLsjq1cPuFEwfbCjEKkRKA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="rey" height="30" width="40" /></a>
+<a href="https://discord.gg/tbw8ZEcpFT" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="tbw8ZEcpFT" height="30" width="44" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
