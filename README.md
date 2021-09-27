@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rey-dev" alt="rey-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Mineplex Services](https://github.com/Mineplex-Community/MineplexServices)
-
 - 📫 How to reach me **reymainmail@gmail.com**
 
 - Experience with <img align="center" src="https://account.mojang.com/images/minecraft_icon_s.png"> Minecraft projects.
